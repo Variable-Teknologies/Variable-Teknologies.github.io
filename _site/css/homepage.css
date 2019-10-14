@@ -5,6 +5,9 @@ html {
     font-family: 'Orbitron';
     color: #cfd8dc;
 }
+p {
+    color: #cfd8dc;
+}
 
 #particles-js canvas {
     display: block;
@@ -28,6 +31,9 @@ html {
 .navbar{
     opacity: 1;
 }
-.navbar-brand, .nav-link{
+.nav-link{
     color:#cfd8dc;
+}
+.nav-link:hover{
+    color:#90a4ae;
 }
